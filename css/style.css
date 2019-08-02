@@ -1038,7 +1038,6 @@ color:#dddddd;
 .company-focus{
   overflow: hidden;
   padding: 5em 0;
-  border:1px solid rgba(0,0,0, .05);
   border-left: 0;
   border-right: 0; 
 }
@@ -1129,7 +1128,6 @@ color:#dddddd;
 .commercial-plumb{
   overflow: hidden;
   padding: 5em 0;
-  border:1px solid rgba(0,0,0, .05);
   border-left: 0;
   border-right: 0; 
 }
