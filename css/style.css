@@ -1066,6 +1066,11 @@ color:#dddddd;
   padding-left: .5em;
   text-transform: uppercase;
 }
+.residential-plumb p, 
+.commercial-plumb p{
+  padding-left: .5em;
+}
+
 .residential-plumb .service-description p,
 .commercial-plumb .service-description p{
   color:#ffffff;
